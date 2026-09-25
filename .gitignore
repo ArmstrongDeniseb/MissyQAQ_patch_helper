@@ -1,0 +1,6 @@
+# IDE 本地配置，不入库
+.idea/
+
+# 构建工具链本地依赖与 npm 缓存（dev_vcdiff 下 npm install 产物，不随仓库分发）
+node_modules/
+.npm-cache/

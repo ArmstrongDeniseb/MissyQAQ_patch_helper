@@ -1,0 +1,4 @@
+# 供 Gitee Go 云端（Linux）执行的脚本与流水线配置强制 LF，避免 Windows CRLF 导致 bash 报错
+*.sh text eol=lf
+*.yml text eol=lf
+.workflow/** text eol=lf

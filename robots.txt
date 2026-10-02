@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://armstrongdeniseb.github.io/MissyQAQ_patch_helper/sitemap.xml
